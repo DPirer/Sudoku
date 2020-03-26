@@ -1,0 +1,8 @@
+cd y el path
+git init
+git add .
+git commit -m "Texto con comentario"
+git remote add origin urldelrepositorio
+git push -f origin master
+
+git pull -f origin master para descargar
